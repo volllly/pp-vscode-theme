@@ -1,0 +1,26 @@
+{
+  "name": "pp",
+  "version": "0.0.1",
+  "description": "pp vs code theme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Volavsek",
+  "publisher": "Paul Volavsek",
+  "license": "UNLICENSED",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+      "themes": [
+          {
+              "label": "pp",
+              "uiTheme": "vs",
+              "path": "./themes/pp.json"
+          }
+      ]
+  }
+}

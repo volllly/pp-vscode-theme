@@ -1,0 +1,103 @@
+{
+  "name": "PP",
+  "type": "light",
+  "colors": {
+      "editor.background": "#EDE9E0",
+      "editor.selectionBackground": "#D8D4CC",
+      "editor.selectionHighlightBackground": "#D8D4CC",
+      "editor.lineHighlightBackground": "#F1EFE8",
+      "editor.lineHighlightBorder": "#F1EFE8",
+      "editor.inactiveSelectionBackground": "#D8D4CC",
+      "editor.wordHighlightBackground": "#D8D4CC",
+      "editor.wordHighlightStrongBackground": "#D8D4CC",
+      "editor.findMatchBackground": "#D8D4CC",
+      "editor.findMatchHighlightBackground": "#D8D4CC",
+      "editor.findRangeHighlightBackground,": "#D8D4CC",
+      "editorIndentGuide.background": "#D8D4CC",
+      "editorLineNumber.foreground": "#8D9697"
+  },
+  "tokenColors": [
+    {
+        "settings": {
+          "foreground": "#000000",
+          "background": "#EDE9E0"
+        }
+    },
+    {
+      "name": "Black",
+      "scope": [
+        "entity.name",
+        "entity.other.inherited-class",
+        "entity.name.section",
+        "entity.name.tag",
+        "entity.other.attribute-name",
+        "variable",
+        "variable.language",
+        "variable.parameter",
+        "variable.function",
+        "constant",
+        "constant.numeric",
+        "constant.language",
+        "constant.character.escape",
+        "keyword",
+        "keyword.control"
+      ],
+      "settings": {
+        "foreground": "#000000"
+      }
+    },
+    {
+      "name": "Grey",
+      "scope": "comment",
+      "settings": {
+        "foreground": "#8D9697"
+      }
+    },
+    {
+      "name": "Red",
+      "scope": [
+        "punctuation",
+        "keyword.operator",
+        "meta.tag.structure.any",
+        "meta.tag.inline.any"
+      ],
+      "settings": {
+        "foreground": "#EB444F"
+      }
+    },
+    {
+      "name": "Green",
+      "scope": [
+        "string",
+        "punctuation.definition.string",
+        "punctuation.support.type.property-name",
+        "support.type.property-name"
+      ],
+      "settings": {
+        "foreground": "#339033"
+      }
+    },
+    {
+      "name": "Blue",
+      "scope": [
+        "storage.type",
+        "storage.modifier",
+        "support"
+      ],
+      "settings": {
+        "foreground": "#1E73BE"
+      }
+    }/*,
+    {
+      "name": "Invalid",
+      "scope": [
+
+      ],
+      "settings": {
+        ""
+      }
+    }
+    invalid
+    invalid.deprecated */
+  ]
+}
