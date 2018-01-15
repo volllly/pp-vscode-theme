@@ -2,6 +2,10 @@
   "name": "pp",
   "version": "0.0.1",
   "description": "pp vs code theme",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:volllly/pp-vscode-theme.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
