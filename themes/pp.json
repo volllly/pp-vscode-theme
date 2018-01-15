@@ -88,17 +88,6 @@
       "settings": {
         "foreground": "#1E73BE"
       }
-    }/*,
-    {
-      "name": "Invalid",
-      "scope": [
-
-      ],
-      "settings": {
-        ""
-      }
     }
-    invalid
-    invalid.deprecated */
   ]
 }
