@@ -1,6 +1,6 @@
 {
   "name": "pp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "pp vs code theme",
   "repository": {
     "type": "git",
@@ -19,12 +19,12 @@
     "Themes"
   ],
   "contributes": {
-      "themes": [
-          {
-              "label": "pp",
-              "uiTheme": "vs",
-              "path": "./themes/pp.json"
-          }
-      ]
+    "themes": [
+      {
+        "label": "pp",
+        "uiTheme": "vs",
+        "path": "./themes/pp.json"
+      }
+    ]
   }
 }
