@@ -71,7 +71,8 @@
         "string",
         "punctuation.definition.string",
         "punctuation.support.type.property-name",
-        "support.type.property-name"
+        "support.type.property-name",
+        "constant.character.escape"
       ],
       "settings": {
         "foreground": "#339033"
