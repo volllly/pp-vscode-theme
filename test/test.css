@@ -1,0 +1,12 @@
+.test #test {
+    width: test;
+}
+
+@media (min-height: 200px) {
+    div.class::before {
+
+    }
+    div:first {
+
+    }
+}

@@ -47,7 +47,9 @@
         "constant.character.escape",
         "keyword",
         "keyword.control",
-        "support"        
+        "support",
+        "support.type.property-name.css",
+        "support.type.property-name.media.css"
       ],
       "settings": {
         "foreground": "#000000"
