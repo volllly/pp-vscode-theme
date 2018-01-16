@@ -14,7 +14,13 @@
       "editor.findMatchHighlightBackground": "#D8D4CC",
       "editor.findRangeHighlightBackground,": "#D8D4CC",
       "editorIndentGuide.background": "#D8D4CC",
-      "editorLineNumber.foreground": "#8D9697"
+      "editorLineNumber.foreground": "#8D9697",
+      "editorGutter.modifiedBackground": "#8D9697",
+      "editorGutter.addedBackground": "#339033",
+      "editorGutter.deletedBackground": "#EB444F",
+      "editorOverviewRuler.modifiedBackground": "#8D9697",
+      "editorOverviewRuler.addedBackground": "#339033",
+      "editorOverviewRuler.deletedBackground": "#EB444F"
   },
   "tokenColors": [
     {
