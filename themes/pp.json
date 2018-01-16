@@ -48,7 +48,10 @@
     },
     {
       "name": "Grey",
-      "scope": "comment",
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
       "settings": {
         "foreground": "#8D9697"
       }
