@@ -40,7 +40,8 @@
         "constant.language",
         "constant.character.escape",
         "keyword",
-        "keyword.control"
+        "keyword.control",
+        "support"        
       ],
       "settings": {
         "foreground": "#000000"
@@ -75,7 +76,8 @@
         "punctuation.definition.string",
         "punctuation.support.type.property-name",
         "support.type.property-name",
-        "constant.character.escape"
+        "constant.character.escape",
+        "constant.other.placeholder"
       ],
       "settings": {
         "foreground": "#339033"
@@ -85,8 +87,7 @@
       "name": "Blue",
       "scope": [
         "storage.type",
-        "storage.modifier",
-        "support"
+        "storage.modifier"
       ],
       "settings": {
         "foreground": "#1E73BE"
